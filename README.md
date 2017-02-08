@@ -1,1 +1,1 @@
-In the project I created a doctor record system using Java with an SQLite database back-end and web front-end using the Java built-in Http web server called HttpServer. 
+The project aim was to create a Doctor Record System using Java and being able to set up a HttpServer to allow database connections and CRUD operations through the back-end and displayed in the front end. HTML, CSS and PHP were involved to style the front-end display also. 
